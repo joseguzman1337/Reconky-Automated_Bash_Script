@@ -10,7 +10,9 @@
 |/   \__/(_______/(_______/(_______)|/    )_)|_/    \/   \_/   
 ``` 
 
-# About 
+# About
+
+Last time Tested 27th September of 2021 on Kali Linux 2021.3
 
 Reconky is a script written in bash to automate the task of recon and information gathering.This Bash Script allows you to collect some information that will help you identify what to do next and where to look for the required target.
 
