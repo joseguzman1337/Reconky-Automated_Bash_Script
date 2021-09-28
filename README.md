@@ -14,7 +14,7 @@
 
 Last time Tested 27th September of 2021 on Kali Linux 2021.3
 
-Reconky is a script written in bash to automate the task of recon and information gathering.This Bash Script allows you to collect some information that will help you identify what to do next and where to look for the required target.
+Reconky is a script written in bash to automate the task of recon and information gathering. This Bash Script allows you to collect some information that will help you identify what to do next and where to look for the required target.
 
 # Main-Features
 
@@ -68,7 +68,7 @@ sudo ./reconky.sh yourdomain.com
 - FortyNorth Security
 - Gordon Lyon
 
-`Note : this tool tested on the kali linux 2021.2 live image. If install.sh does not run kindly install all the tools manually described in that.So that directory problem will not occur and make sure all the tools can be run globally from any directory for that use symbolic link.`
+`Note : If install.sh does not complete the pre-requisites, kindly install all the tools manually described in that. So that directory problem will not occur and make sure all the tools can be run globally from any directory for that use symbolic link.`
 
 ### Happy Hunting
 `Note : Run with Caution. Pull Request and New Ideas Is Welcome. `
