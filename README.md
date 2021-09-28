@@ -37,7 +37,7 @@ sudo -i
 2. [Amass](https://github.com/4k4xs4pH1r3/Amass)
 
 
-# Install as root
+# Install Reconky as root
 ```ShellSession
 sudo -i
 ```
