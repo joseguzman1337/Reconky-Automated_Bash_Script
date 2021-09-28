@@ -10,9 +10,6 @@
 |/   \__/(_______/(_______/(_______)|/    )_)|_/    \/   \_/   
 ``` 
 
-# Usage
-`./reconky.sh <domain.com>`
-
 # About 
 
 Reconky is a script written in bash to automate the task of recon and information gathering.This Bash Script allows you to collect some information that will help you identify what to do next and where to look for the required target.
@@ -29,8 +26,31 @@ Reconky is a script written in bash to automate the task of recon and informatio
 - Pulls and compilis json/js/php/aspx/ files from wayback output
 - Runs eyewitness against all the compiled(alive) domains
 
-# Installation & Requirements
-- Download the install script from https://github.com/ShivamRai2003/Reconky-Automated_Bash_Script/blob/main/reconky.sh
+
+# Install pre-requisites as root
+
+```ShellSession
+sudo -i
+```
+
+[Sublist3r](https://github.com/4k4xs4pH1r3/Sublist3r)
+[Amass](https://github.com/4k4xs4pH1r3/Amass)
+
+
+# Install as root
+```ShellSession
+sudo -i
+```
+
+```ShellSession
+cd /usr/share/ && git clone https://github.com/ShivamRai2003/Reconky-Automated_Bash_Script.git && cd Reconky-Automated_Bash_Script && chmod +x install.sh reconky.sh && install.sh
+```
+
+# Usage as root
+```ShellSession
+sudo ./reconky.sh yourdomain.com
+```
+
 
 # DEMO
 ![cli output](https://github.com/ShivamRai2003/Reconky-Automated_Bash_Script/blob/main/Recon.gif)
