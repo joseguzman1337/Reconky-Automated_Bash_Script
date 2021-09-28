@@ -43,7 +43,7 @@ sudo -i
 ```
 
 ```ShellSession
-cd /usr/share/ && git clone https://github.com/ShivamRai2003/Reconky-Automated_Bash_Script.git && cd Reconky-Automated_Bash_Script && chmod +x install.sh reconky.sh && install.sh
+cd /usr/share/ && git clone https://github.com/ShivamRai2003/Reconky-Automated_Bash_Script.git && cd Reconky-Automated_Bash_Script && chmod +x install.sh reconky.sh && ./install.sh
 ```
 
 # Usage as root
