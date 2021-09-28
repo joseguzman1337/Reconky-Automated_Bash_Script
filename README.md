@@ -33,8 +33,8 @@ Reconky is a script written in bash to automate the task of recon and informatio
 sudo -i
 ```
 
-[Sublist3r](https://github.com/4k4xs4pH1r3/Sublist3r)
-[Amass](https://github.com/4k4xs4pH1r3/Amass)
+1. [Sublist3r](https://github.com/4k4xs4pH1r3/Sublist3r)
+2. [Amass](https://github.com/4k4xs4pH1r3/Amass)
 
 
 # Install as root
